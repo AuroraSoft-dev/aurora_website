@@ -10,7 +10,8 @@ class AuroraSoft extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'AuroraSoft',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        primaryColor: const Color(0xFF39B54A),
+        secondaryHeaderColor: const Color(0xFF414042),
       ),
       home: const HomeScreen(),
     );

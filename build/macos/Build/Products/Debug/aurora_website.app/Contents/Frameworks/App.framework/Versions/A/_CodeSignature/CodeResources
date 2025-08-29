@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		2/124/Ug9qE5eBqM/kEHBeS4dfY=
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		aOuGy5kn74W8EgaUQvYOvIKew4M=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,11 +22,19 @@
 		</data>
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<data>
-		uPzJnKjRrXMO1N3vHufQIpCoTDc=
+		0mJo0fJc2JPZ2hss2LsdpBC1EYU=
 		</data>
 		<key>Resources/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
 		re4p7E8rPLLsN+wzaPN/+AVpXTY=
+		</data>
+		<key>Resources/flutter_assets/assets/logos/Aurora.png</key>
+		<data>
+		8ynUdGVBYnYHeztLzfNGBnI/Qko=
+		</data>
+		<key>Resources/flutter_assets/assets/logos/AuroraSoft.png</key>
+		<data>
+		xuVdAAQos5UhlCzIpS30yeYneug=
 		</data>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -38,7 +46,7 @@
 		</data>
 		<key>Resources/flutter_assets/kernel_blob.bin</key>
 		<data>
-		DekHLO4DVroUFIzmq6ncfPB7Qo4=
+		sGNfHBLxO+hDUaY/t3rJSvy8BXk=
 		</data>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -66,14 +74,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			xBybIPcqwtGdExK44kM+gS6UaSiaFyTrU1om5Trsxdc=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			+P134DnbwGVX9WYMz7sPrdoCtMtunxQUMIt3XxPvZN8=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -87,7 +95,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FUWZzQFofMcWYfzEWprvdCxVVduj3l4xgChUUjkKqiU=
+			JH55g8Qx10uw5PKRmTcsjCZYCWpT5MKebs27P40f2Yc=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/NativeAssetsManifest.json</key>
@@ -95,6 +103,20 @@
 			<key>hash2</key>
 			<data>
 			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/logos/Aurora.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ilrXV6YLm0I4xtcjAa2C0RVWqYwdcEkURN8DYqVN/H8=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/logos/AuroraSoft.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RK0Fq++U2Wf2lpCQLkNeIMk0Ii8K7F41lQQ3TnmHkfg=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -115,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DYRdXFkUMd9EYTJZQypBVQ2S27LU90Dz6wvFgIbHA6E=
+			5cEKESl5Z6cFm3GxBrcTPijKT5z0q6TTB7OVh0A/rqs=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
