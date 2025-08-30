@@ -38,11 +38,11 @@ class HomePage extends StatelessWidget {
                             children: [
                               // Heading
                               Text(
-                                "Welcome to AuroraSoft",
+                                "Exceptional products are crafted by exceptional teams.",
                                 style: TextStyle(
                                   color: Colors.green,
                                   fontWeight: FontWeight.bold,
-                                  fontSize: 26,
+                                  fontSize: 32,
                                 ),
                               ),
 
