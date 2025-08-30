@@ -12,6 +12,7 @@ class AuroraSoft extends StatelessWidget {
       theme: ThemeData(
         primaryColor: const Color(0xFF39B54A),
         secondaryHeaderColor: const Color(0xFF414042),
+        fontFamily: 'Quicking',
       ),
       home: const HomeScreen(),
     );

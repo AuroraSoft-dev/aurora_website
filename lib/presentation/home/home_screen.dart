@@ -1,3 +1,7 @@
+import 'package:aurora_website/presentation/home/pages/about_page.dart';
+import 'package:aurora_website/presentation/home/pages/contact_page.dart';
+import 'package:aurora_website/presentation/home/pages/home_page.dart';
+import 'package:aurora_website/presentation/home/pages/services_page.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -11,11 +15,11 @@ class _HomeScreenState extends State<HomeScreen> {
   final PageController _pageController = PageController();
   int _currentIndex = 0;
 
-  final List<String> _pages = [
-    "Welcome to AuroraSoft!",
-    "Our Services",
-    "About Us",
-    "Contact Us",
+  final List<Widget> _pages = const [
+    HomePage(),
+    ServicesPage(),
+    AboutPage(),
+    ContactPage(),
   ];
 
   void _onMenuTap(int index) {
@@ -52,19 +56,11 @@ class _HomeScreenState extends State<HomeScreen> {
           ],
         ),
       ),
-      body: PageView.builder(
+      body: PageView(
         controller: _pageController,
-        itemCount: _pages.length,
+        children: _pages,
         onPageChanged: (index) {
           setState(() => _currentIndex = index);
-        },
-        itemBuilder: (context, index) {
-          return Center(
-            child: Text(
-              _pages[index],
-              style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-            ),
-          );
         },
       ),
     );
