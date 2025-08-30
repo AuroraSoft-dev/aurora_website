@@ -1,3 +1,4 @@
+/Users/argho/.pub-cache/hosted/pub.dev/args-2.7.0/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/async-2.13.0/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/characters-1.4.0/LICENSE
@@ -38,6 +39,9 @@
 /Users/argho/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8/assets/CupertinoIcons.ttf
 /Users/argho/.pub-cache/hosted/pub.dev/fake_async-1.3.3/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/flutter_lints-5.0.0/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/flutter_svg-2.2.0/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/http-1.5.0/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/http_parser-4.1.2/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/leak_tracker-10.0.9/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.9/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.1/LICENSE
@@ -86,12 +90,18 @@
 /Users/argho/.pub-cache/hosted/pub.dev/meta-1.16.0/lib/meta.dart
 /Users/argho/.pub-cache/hosted/pub.dev/meta-1.16.0/lib/meta_meta.dart
 /Users/argho/.pub-cache/hosted/pub.dev/path-1.9.1/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/path_parsing-1.1.0/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/petitparser-7.0.1/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/source_span-1.10.1/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/stack_trace-1.12.1/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/stream_channel-2.1.4/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/string_scanner-1.4.1/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/term_glyph-1.2.2/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/test_api-0.7.4/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/typed_data-1.4.0/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/vector_graphics-1.1.19/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.13/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.1.19/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/vector_math-2.1.4/LICENSE
 /Users/argho/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/src/vector_math_64/aabb2.dart
 /Users/argho/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/src/vector_math_64/aabb3.dart
@@ -119,6 +129,12 @@
 /Users/argho/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/src/vector_math_64/vector4.dart
 /Users/argho/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/vector_math_64.dart
 /Users/argho/.pub-cache/hosted/pub.dev/vm_service-15.0.0/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/web-1.1.1/LICENSE
+/Users/argho/.pub-cache/hosted/pub.dev/xml-6.6.1/LICENSE
+/Users/argho/Developer/project/aurora_website/DOES_NOT_EXIST_RERUN_FOR_WILDCARD325740270
+/Users/argho/Developer/project/aurora_website/assets/logos/.DS_Store
+/Users/argho/Developer/project/aurora_website/assets/logos/Aurora.png
+/Users/argho/Developer/project/aurora_website/assets/logos/AuroraSoft.png
 /Users/argho/Developer/project/aurora_website/lib/app.dart
 /Users/argho/Developer/project/aurora_website/lib/main.dart
 /Users/argho/Developer/project/aurora_website/lib/presentation/home/home_screen.dart
